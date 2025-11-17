@@ -2,7 +2,7 @@ export const datasets = [
   {
     id: 1,
     tag: 'Goloka',
-    title: 'igbo speech without transcription',
+    title: 'Igbo Speech without Transcription',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '2.74 MB',
@@ -12,7 +12,7 @@ export const datasets = [
   {
     id: 2,
     tag: 'Goloka',
-    title: 'igbo text with translation',
+    title: 'Igbo Text with Translation',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '2.04 MB',
@@ -23,7 +23,7 @@ export const datasets = [
   {
     id: 3,
     tag: 'Goloka',
-    title: 'isoko speech with translation',
+    title: 'Isoko Speech with Translation',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '1.65 MB',
@@ -33,7 +33,7 @@ export const datasets = [
   {
     id: 4,
     tag: 'Goloka',
-    title: 'isoko text with translation',
+    title: 'Isoko Text with Translation',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '168.34 KB',
@@ -43,7 +43,7 @@ export const datasets = [
   {
     id: 5,
     tag: 'Goloka',
-    title: 'urhobo speech with transcription',
+    title: 'Urhobo Speech with Transcription',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '1.32 MB',
@@ -53,7 +53,7 @@ export const datasets = [
   {
     id: 6,
     tag: 'Goloka',
-    title: 'urhobo text with translation',
+    title: 'Urhobo Text with Translation',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '1.21 MB',
@@ -63,7 +63,7 @@ export const datasets = [
   {
     id: 7,
     tag: 'Goloka',
-    title: 'yoruba speech with transcription',
+    title: 'Yoruba Speech with Transcription',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '1.88 MB',
@@ -73,7 +73,7 @@ export const datasets = [
   {
     id: 8,
     tag: 'Goloka',
-    title: 'yoruba text with translation',
+    title: 'Yoruba Text with Translation',
     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     format: 'TXT',
     size: '1.54 MB',
