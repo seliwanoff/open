@@ -5,7 +5,9 @@ export default function Header() {
     <div className='w-full bg-white shadow-sm py-4 px-6 flex items-center  gap-36'>
       {/* Left Logo */}
       <div className='flex items-center space-x-2'>
-        <h1 className=' font-semibold text-gray-900 text-5xl'>Open</h1>
+        <h1 className=' font-semibold text-gray-900 text-5xl'>
+          <NavLink to={'/'}>Open</NavLink>
+        </h1>
       </div>
 
       {/* Navigation */}
